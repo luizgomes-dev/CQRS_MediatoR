@@ -12,6 +12,9 @@ O objetivo deste projeto é ilustrar a utilização do padrão Mediator juntamen
 - Divisão de responsabilidades entre comandos (Commands) e consultas (Queries).
 - Uso de um pipeline de manipulação de solicitações para adicionar lógica de negócios e validações.
 
+![image](https://github.com/user-attachments/assets/e0a81457-af8a-4af4-9bc7-d75638713583)
+
+
 ## Como usar
 
 Para utilizar este projeto, siga estas etapas:
